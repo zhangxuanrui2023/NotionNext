@@ -69,7 +69,7 @@ const BLOG = {
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
-    '"Microsoft YaHei"'
+    '"Source Han Sans"'
   ],
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
