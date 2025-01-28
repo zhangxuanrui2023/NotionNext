@@ -293,16 +293,9 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '',
-      artist: '',
-      url: 'https://music.163.com/song/media/outer/url?id25906124.mp3',
-      cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/2145324205.jpg'
-    },
-    {
       name: '恭喜发财',
       artist: '刘德华',
-      url: 'https://music.163.com/song/media/outer/url?id=25906124.mp3',
+      url: 'http://www.kugou.com/song/#hash=08228af3cb404e8a4e7e9871bf543ff6',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/25906124.jpg'
     },
