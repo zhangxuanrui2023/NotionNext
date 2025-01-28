@@ -302,9 +302,9 @@ const BLOG = {
     {
       name: '🎆',
       artist: 'Aaron Cherof',
-      url: 'https://music.163.com/song/media/outer/url?id=109827.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=25906124.mp3',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/109827.jpg'
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/25906124.jpg'
     },
     
   ],
