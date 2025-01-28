@@ -300,8 +300,8 @@ const BLOG = {
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/2145324205.jpg'
     },
     {
-      name: '🎆',
-      artist: 'Aaron Cherof',
+      name: '恭喜发财',
+      artist: '刘德华',
       url: 'https://music.163.com/song/media/outer/url?id=25906124.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/25906124.jpg'
